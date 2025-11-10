@@ -20,14 +20,6 @@
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-## 📊 GitHub Stats
-![Kshithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KshithiHegde29&show_icons=true&theme=radical)
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/kshithi-hegde-09b40b1b6)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KshithiHegde29)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hegdekshithi@gmail.com)
-
 ## 💡 Core Strengths
 - 🧠 **Strong Problem Solver:** Proven ability to translate complex system requirements into efficient, scalable solutions.  
 - ☁️ **Cloud-Native Mindset:** Experienced in AWS-based architectures, microservices, and containerization.  
@@ -40,6 +32,11 @@
 - Improved system scalability and deployment time by **40%** using **Dockerized microservices** at **Target**.  
 - Enhanced data processing efficiency by **20%** through anomaly detection models at **ISRO**.  
 - Achieved **9.59/10 GPA** during B.E. and pursuing an **M.S. in Computer Science at University at Buffalo**.  
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/kshithi-hegde-09b40b1b6)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KshithiHegde29)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hegdekshithi@gmail.com)
 
 ---
 
